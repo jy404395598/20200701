@@ -1,0 +1,32 @@
+{
+  "$id": "21",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2020-07-01T15:13:28.8522277+09:00",
+  "LastUsedView": 0,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "分支"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "RemoteProjectLinks": [
+    {
+      "$id": "22",
+      "BaseUrl": "https://github.com",
+      "Identifier": "jy404395598/20200701",
+      "RemoteName": "origin",
+      "Type": 0,
+      "Username": "jy404395598",
+      "CloneUrl": null,
+      "ProjectUrl": null,
+      "AccountId": "jy404395598@github.com",
+      "AvatarUrl": null,
+      "DisplayName": "origin: https://github.com"
+    }
+  ]
+}
